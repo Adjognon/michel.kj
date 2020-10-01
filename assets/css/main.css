@@ -3224,3 +3224,8 @@ input, select, textarea {
 		margin:0px 0px 7px 0px !important;
 		height:240px;
 	}
+	
+	.image_2_, .image_link_{
+		margin:0px 0px 7px 0px !important;
+		height:270px;
+	}
