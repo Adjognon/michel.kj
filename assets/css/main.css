@@ -2690,8 +2690,8 @@ input, select, textarea {
 
 		#main > section {
 			border-top: solid 2px #efefef;
-			margin: 4em 0 0 0;
-			padding: 4em 0 0 0;
+			margin: 0em 0 0 0;
+			padding: 2em 0 0 0;
 		}
 
 			#main > section:first-child {
@@ -2868,6 +2868,11 @@ input, select, textarea {
 				text-align: center;
 				top: 50%;
 				width: 1.5em;
+			}
+			
+			.h_tags{
+				margin:0px;
+				padding:0px;
 			}
 
 		.poptrox-popup .nav-next {
@@ -3228,4 +3233,8 @@ input, select, textarea {
 	.image_2_, .image_link_{
 		margin:0px 0px 7px 0px !important;
 		height:270px;
+	}
+	.pr_image{
+		width:500px;
+		border-radius:9px;
 	}
